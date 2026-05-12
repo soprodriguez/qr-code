@@ -1,19 +1,19 @@
-QR Code Generator Web App (Streamlit)
+# QR Code Generator Web App (Streamlit)
 
-Description:
+## Description
 
 This project is a simple web application that generates QR codes from user input. Users can enter any text or URL, and the app will create and display a corresponding QR code instantly.
 
 The application is built using Streamlit, making it easy to run in a browser without needing a graphical user interface (GUI) framework.
 
-Features:
+## Features
 
 * Generate QR codes from text or URLs
 * Interactive user input field
 * Automatically displays the generated QR code
 * Saves the QR code as an image file
 
-Technologies Used:
+## Technologies Used
 
 * **Python**
 * **Streamlit** (for building the web app)
